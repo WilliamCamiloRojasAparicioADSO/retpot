@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <header class="content1">
+    <div class="caja1">
+      <ul1>
+        <button>
+          buscar
+        </button>
+      </ul1>
+      <ul2>
+        <button>
+          opciones
+        </button>
+      </ul2>
+      <ul3>
+        <button>
+          zona de piknick
+        </button>
+      </ul3>
+      <ul4>
+        <button>
+          zona de ejercicio
+        </button>
+      </ul4>
+      <ul5>
+        <button>
+          zona del lago
+        </button>
+      </ul5>
+
+    </div>
+  </header>
+  <header class="content2">
+    <img1 src="c:\Users\Windows 10\Downloads\imagen (2).jpg" alt="imagen(2)jpg">
+      <div class="caja2">
+        <p>
+        <h1>
+          parque de exparciomineto
+        </h1>
+        </p>
+        <p>
+        <h2>
+          espacio verde se ha convertido en el lugar perfecto para disfrutar de diversas actividades al aire libre. Ya
+          sea
+          que
+          prefieras relajarte o participar en emocionantes actividades
+        </h2>
+        </p>
+
+      </div>
+  </header>
+
+  <header class="content3">
+    <img src="c:\Users\Windows 10\Pictures\fotos.jpg" alt="fotos.jpg">
+    <p>
+
+
+
+
+  </header>
+  <div class="caja3">
+    <img src="c:\Users\Windows 10\Pictures\lugar.jpg" alt="lugar.jpg">
+    <img src="c:\Users\Windows 10\Pictures\juego.jpg" alt="juego.jpg">
+    <img src="c:\Users\Windows 10\Pictures\actividad.jpg" alt="actividad.jpg">
+  </div>
+  <p>
+  <h4>
+    la diversión nunca termina. Desde la mañana hasta la tarde, hay actividades para todos los gustos y edades. Los
+    más
+    madrugadores pueden disfrutar de un tranquilo paseo matutino por los senderos arbolados, mientras que los
+    entusiastas
+    del ejercicio se reúnen en el área de entrenamiento al aire libre.
+  </h4>
+  </p>
+  <p>
+  <h5>
+    En la zona de picnic, grupos de amigos y familias extienden mantas sobre el césped verde, compartiendo
+    deliciosos
+    almuerzos y meriendas. Alrededor del estanque, patos curiosos nadan tranquilamente, mientras los visitantes
+    disfrutan de
+    paseos en bote
+  </h5>
+  </p>
+  <p>
+  <h6>
+    En el estanque, patos juguetones nadan perezosamente, deleitando a los visitantes con su encanto acuático. En
+    los
+    caminos arbolados, corredores y ciclistas comparten el espacio, sumergiéndose en la naturaleza mientras se
+    mantienen
+    activos. Los entusiastas de la lectura se refugian en bancos estratégicamente ubicados
+  </h6>
+  </p>
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>
